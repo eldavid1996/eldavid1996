@@ -1,32 +1,47 @@
-<h1><b>¡Hey 👋! I’m Mendoza </b></h1>
+<h1 align="center"><b>👋 Hey! I’m Mendoza </b></h1>
 
-<h3><b>👀 My name is David and i'm passionate about computing and new technologies</b></h3>
+<h3 align="center"><b> My name is David and i'm passionate about computing and new technologies 👀</b></h3>
 
-<h3><b>⚡ My skills: </b></h3>
+<p align="center"><b >🔥 FRONTEND</b></p>
 
-<b>FRONTEND</b>
-HTML,
-CSS,
-SASS,
-Tailwind,
-Bootstrap,
-JavaScript,
-TypeScript,
-ReactJS
+<div align="center">
 
-<b>BACKEND:</b>
-PHP,
-Laravel,
-NodeJS,
-Express.js,
-Next.js,
-MySQL,
-MongoDB
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="40" alt="HTML" title="HTML"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/452185/css-3.svg" height="40" alt="CSS" title="CSS"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/439306/sass.svg" height="40" alt="SASS" title="SASS"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="40" alt="Tailwind" title="Tailwind"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="40" alt="Bootstrap" title="Bootstrap"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/353925/javascript.svg" height="40" alt="JavaScript" title="JavaScript"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" height="40" alt="TypeScript" title="TypeScript"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/374032/reactjs.svg" height="40" alt="ReactJS" title="ReactJS"/> &nbsp;
 
-<b>UTILS:</b>
-Docker,
-Git,
-Wordpress,
-Figma,
-Jira,
-Draw.io
+</div>
+
+<p align="center"><b >🛠 BACKEND</b></p>
+
+<div align="center">
+
+  <img src="https://www.svgrepo.com/show/452088/php.svg" height="40" alt="PHP" title="PHP"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40" alt="Laravel" title="Laravel"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/439238/nodejs.svg" height="40" alt="NodeJS" title="NodeJS"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/353724/express.svg" height="40" alt="Express.js" title="Express.js"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/306466/next-dot-js.svg" height="40" alt="Next.js" title="Next.js"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/373848/mysql.svg" height="40" alt="MySQL" title="MySQL"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/439231/mongodb.svg" height="40" alt="MongoDB" title="MongoDB"/> &nbsp;
+
+</div>
+
+<p align="center"><b >📚 UTILS</b></p>
+
+<div align="center">
+
+  <img src="https://www.svgrepo.com/show/448221/docker.svg" height="40" alt="Docker" title="Docker"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/452210/git.svg" height="40" alt="Git" title="Git"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" height="40" alt="Wordpress" title="Wordpress"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/448222/figma.svg" height="40" alt="Figma" title="Figma"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/353935/jira.svg" height="40" alt="Jira" title="Jira"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/373564/drawio.svg" height="40" alt="Draw.io" title="Draw.io"/> &nbsp;
+
+</div>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=eldavid1996.eldavid1996&) 
