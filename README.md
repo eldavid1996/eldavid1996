@@ -49,5 +49,21 @@
 | <a href="https://github.com/eldavid1996"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eldavid1996&show_icons=true&theme=buefy&hide_border=true" alt="eldavod1996 github stats" /></a> | <a href="https://github.com/eldavid1996"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldavid1996&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+#### Top Repositories
+
+
+<a href="https://github.com/eldavid1996/FCT_Limpieza">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eldavid1996&repo=FCT_Limpieza&theme=buefy" />
+</a>
+<a href="https://github.com/eldavid1996/MendozaDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eldavid1996&repo=MendozaDev&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://www.linkedin.com/in/davidmendozatenorio">
+  <img align="right" alt="David Mendoza Tenorio | Linkedin" width="21px" src="https://www.svgrepo.com/show/75820/linkedin.svg" />
+</a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=eldavid1996.eldavid1996&show_icons=true) 
