@@ -2,7 +2,7 @@
 
 <h1 align="center"><b>👋 Hey! I’m Mendoza </b></h1>
 
-<h3 align="center"><b> My name is David and i'm passionate about computing and new technologies 👀</b></h3>
+<h3 align="center"><b> My name is David and i'm web developer passionate about computing and new technologies 👀</b></h3>
 
 <p align="center"><b >🔥 FRONTEND</b></p>
 
