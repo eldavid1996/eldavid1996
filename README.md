@@ -1,3 +1,10 @@
+<p align="center"><a href="https://mendozadev.vercel.app"><img style="border-radius:20%; width:400px" alt="Hey! I’m Mendoza" src="https://github.com/user-attachments/assets/2a4e44c8-a824-449e-9e5d-24678002d5e3" /></a></p>
+
+<p aling="center">
+  ![Gitgub README image](https://github.com/user-attachments/assets/2a4e44c8-a824-449e-9e5d-24678002d5e3)
+
+</p>
+
 <h1 align="center"><b>👋 Hey! I’m Mendoza </b></h1>
 
 <h3 align="center"><b> My name is David and i'm passionate about computing and new technologies 👀</b></h3>
