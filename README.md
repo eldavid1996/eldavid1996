@@ -1,9 +1,4 @@
-<p align="center"><a href="https://mendozadev.vercel.app"><img style="border-radius:20%; width:400px" alt="Hey! I’m Mendoza" src="https://github.com/user-attachments/assets/2a4e44c8-a824-449e-9e5d-24678002d5e3" /></a></p>
-
-<p aling="center">
-  ![Gitgub README image](https://github.com/user-attachments/assets/2a4e44c8-a824-449e-9e5d-24678002d5e3)
-
-</p>
+<p align="center"><a href="https://mendozadev.vercel.app"><img style="border-radius:20%; width:400px" alt="Hey! I’m Mendoza" src="https://github.com/user-attachments/assets/6b18e0c8-b745-4894-8ebf-66fd555cba50" /></a></p>
 
 <h1 align="center"><b>👋 Hey! I’m Mendoza </b></h1>
 
@@ -51,4 +46,8 @@
 
 </div>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=eldavid1996.eldavid1996&) 
+| <a href="https://github.com/eldavid1996"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eldavid1996&show_icons=true&theme=buefy&hide_border=true" alt="eldavod1996 github stats" /></a> | <a href="https://github.com/eldavid1996"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldavid1996&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=eldavid1996.eldavid1996&show_icons=true) 
